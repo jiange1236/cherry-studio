@@ -74,9 +74,9 @@ linux:
       arch:
         - arm64
         - x64
-  icon: build/icon.png
   maintainer: electronjs.org
   category: Utility
+  icon: build/icon.png
 publish:
   provider: generic
   url: https://cherrystudio.ocool.online
